@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 886c30b5324094323b0192ed3a352633
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - CoquetteC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f1086fe8f4bba453997c09f108fd3450, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
